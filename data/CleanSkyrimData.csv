@@ -1,0 +1,264 @@
+,Name,Damage,Weight,Gold,Upgrade,Type,Category
+0,Ancient Nord Battle Axe,18,22.0,28,Steel Ingot,Battleaxe,Two-Handed
+1,Daedric Battleaxe,25,27.0,2750,Ebony Ingot,Battleaxe,Two-Handed
+2,Dragonbone Battleaxe ,26,30.0,3000,Dragon Bone,Battleaxe,Two-Handed
+3,Drainblood Battleaxe,21,5.0,266,No Upgrade,Battleaxe,Two-Handed
+4,Dwarven Battleaxe,20,23.0,300,Dwarven Metal Ingot,Battleaxe,Two-Handed
+5,Ebony Battleaxe,23,26.0,1585,Ebony Ingot,Battleaxe,Two-Handed
+6,Elven Battleaxe,21,24.0,520,Refined Moonstone,Battleaxe,Two-Handed
+7,Glass Battleaxe,22,25.0,900,Refined Malachite,Battleaxe,Two-Handed
+8,Headsman's Axe,17,11.0,15,No Upgrade,Battleaxe,Two-Handed
+9,Honed Ancient Nord Battle Axe,21,25.0,50,Steel Ingot,Battleaxe,Two-Handed
+10,Iron Battleaxe,16,20.0,55,Iron Ingot,Battleaxe,Two-Handed
+11,Nord Hero Battle Axe,21,20.0,300,Steel Ingot,Battleaxe,Two-Handed
+12,Nordic Battleaxe DR,21,23.0,650,Quicksilver Ingot,Battleaxe,Two-Handed
+13,Orcish Battleaxe,19,25.0,165,Orichalcum Ingot,Battleaxe,Two-Handed
+14,Skyforge Steel Battleaxe,21,21.0,150,Steel Ingot,Battleaxe,Two-Handed
+15,Stalhrim Battleaxe ,24,25.0,2150,Stalhrim,Battleaxe,Two-Handed
+16,Steel Battleaxe of Fiery Souls,18,21.0,320,Steel Ingot,Battleaxe,Two-Handed
+17,Steel Battleaxe,18,21.0,100,Steel Ingot,Battleaxe,Two-Handed
+18,Rueful Axe,22,10.0,1183,Ebony Ingot,Battleaxe,Two-Handed
+19,The Woodsman's Friend,17,20.0,28,No Upgrade,Battleaxe,Two-Handed
+20,Tsun's Battleaxe,27,36.0,1000,No Upgrade,Battleaxe,Two-Handed
+21,Wuuthrad,25,25.0,2000,No Upgrade,Battleaxe,Two-Handed
+22,Alessandra's Dagger,5,1.0,10,No Upgrade,Dagger,One-Handed
+23,Blade of Woe,12,7.0,880,None required,Dagger,One-Handed
+24,Blade of Sacrifice,10,4.0,144,Ebony Ingot,Dagger,One-Handed
+25,Bloodthorn,8,2.5,183,Steel Ingot,Dagger,One-Handed
+26,Borvir's Dagger,8,4.0,18,Refined Moonstone,Dagger,One-Handed
+27,Daedric Dagger,11,6.0,500,Ebony Ingot,Dagger,One-Handed
+28,Dragonbone Dagger ,12,6.5,600,Dragon Bone,Dagger,One-Handed
+29,Dragon Priest Dagger,6,5.0,9,No Upgrade,Dagger,One-Handed
+30,Dwarven Dagger,7,3.5,55,Dwarven Metal Ingot,Dagger,One-Handed
+31,Ebony Dagger,10,5.0,290,Ebony Ingot,Dagger,One-Handed
+32,Elven Dagger,8,4.0,95,Refined Moonstone,Dagger,One-Handed
+33,Glass Dagger,9,4.5,165,Refined Malachite,Dagger,One-Handed
+34,Iron Dagger,4,2.0,10,Iron Ingot,Dagger,One-Handed
+35,Kahvozein's Fang,6,5.0,9,No Upgrade,Dagger,One-Handed
+36,Keening,8,4.0,5,No Upgrade,Dagger,One-Handed
+37,Mehrunes' Razor,11,3.0,860,Ebony Ingot,Dagger,One-Handed
+38,Nettlebane,6,10.0,5,Ebony Ingot,Dagger,One-Handed
+39,Nordic Dagger ,8,3.5,115,Quicksilver Ingot,Dagger,One-Handed
+40,Orcish Dagger,6,3.0,30,Orichalcum Ingot,Dagger,One-Handed
+41,Rundi's Dagger,5,2.5,18,Steel Ingot,Dagger,One-Handed
+42,Shiv,5,2.0,5,No Upgrade,Dagger,One-Handed
+43,Skyforge Steel Dagger,8,2.5,25,No Upgrade,Dagger,One-Handed
+44,Stalhrim Dagger ,10,4.5,395,Stalhrim,Dagger,One-Handed
+45,Steel Dagger,5,2.5,18,Steel Ingot,Dagger,One-Handed
+46,Valdr's Lucky Dagger,5,2.5,15,Steel Ingot,Dagger,One-Handed
+47,Daedric Mace,16,20.0,1750,Ebony Ingot,Mace,One-Handed
+48,Dragonbone Mace ,17,22.0,2000,Dragon Bone,Mace,One-Handed
+49,Dwarven Mace,12,16.0,190,Dwarven Metal Ingot,Mace,One-Handed
+50,Ebony Mace,16,19.0,1000,Ebony Ingot,Mace,One-Handed
+51,Elven Mace,13,17.0,330,Refined Moonstone,Mace,One-Handed
+52,Glass Mace,14,18.0,575,Refined Malachite,Mace,One-Handed
+53,Horksbane ,10,14.0,250,Steel Ingot,Mace,One-Handed
+54,Iron Mace,9,13.0,35,Iron Ingot,Mace,One-Handed
+55,Lunar Iron Mace (Lvl 2-3),9,13.0,99,Iron Ingot,Mace,One-Handed
+56,Lunar Iron Mace (Lvl 4-5),9,13.0,133,Iron Ingot,Mace,One-Handed
+57,Lunar Iron Mace (Lvl 6+),9,13.0,168,Iron Ingot,Mace,One-Handed
+58,Lunar Steel Mace (Lvl 4-5),10,14.0,129,Iron Ingot,Mace,One-Handed
+59,Lunar Steel Mace (Lvl 6-7),10,14.0,163,Iron Ingot,Mace,One-Handed
+60,Lunar Steel Mace (Lvl 8+),10,14.0,198,Iron Ingot,Mace,One-Handed
+61,Mace of Molag Bal,16,18.0,1257,Ebony Ingot,Mace,One-Handed
+62,Nordic Mace ,13,16.0,410,Quicksilver Ingot,Mace,One-Handed
+63,Orcish Mace,11,15.0,105,Orichalcum Ingot,Mace,One-Handed
+64,Prelate's Mace ,13,7.0,330,Refined Moonstone,Mace,One-Handed
+65,Rusty Mace,7,13.0,5,No Upgrade,Mace,One-Handed
+66,Stalhrim Mace ,16,18.0,1375,Stalhrim,Mace,One-Handed
+67,Steel Mace,10,14.0,65,Steel Ingot,Mace,One-Handed
+68,Akaviri Sword ,11,10.0,300,No Upgrade,Sword,One-Handed
+69,Amren's Family Sword,7,9.0,25,Iron Ingot,Sword,One-Handed
+70,Ancient Nord Sword,8,12.0,13,Steel Ingot,Sword,One-Handed
+71,Blades Sword,11,10.0,300,Steel Ingot,Sword,One-Handed
+72,Bloodscythe ,13,10.0,1859,Ebony Ingot,Sword,One-Handed
+73,Bolar's Oathblade,11,10.0,1014,Quicksilver Ingot,Sword,One-Handed
+74,Ceremonial Sword,8,12.0,5,Steel Ingot,Sword,One-Handed
+75,Chillrend (Lv 1-10),10,11.0,552,Refined Malachite,Sword,One-Handed
+76,Chillrend (Lvl 11-18),11,12.0,635,Refined Malachite,Sword,One-Handed
+77,Chillrend (Lvl 19-26),12,13.0,872,Refined Malachite,Sword,One-Handed
+78,Chillrend (Lvl 27-35),13,14.0,846,Refined Malachite,Sword,One-Handed
+79,Chillrend (Lvl 36-45),14,15.0,1111,Refined Malachite,Sword,One-Handed
+80,Chillrend (Lvl 46+),15,16.0,1442,Refined Malachite,Sword,One-Handed
+81,Daedric Sword,14,16.0,1250,Ebony Ingot,Sword,One-Handed
+82,Dawnbreaker,12,10.0,740,Ebony Ingot,Sword,One-Handed
+83,Dragonbane (Lvl 1-18),10,10.0,789,Quicksilver Ingot,Sword,One-Handed
+84,Dragonbane (Lvl 19-26),11,11.0,1046,Quicksilver Ingot,Sword,One-Handed
+85,Dragonbane (Lvl 27-35),12,12.0,1189,Quicksilver Ingot,Sword,One-Handed
+86,Dragonbane (Lvl 36-45),13,13.0,1860,Quicksilver Ingot,Sword,One-Handed
+87,Dragonbane (Lvl 46+),14,14.0,2596,Quicksilver Ingot,Sword,One-Handed
+88,Dragonbone Sword ,15,19.0,1500,Dragon Bone,Sword,One-Handed
+89,Drainheart Sword,11,3.0,73,No Upgrade,Sword,One-Handed
+90,Dwarven Sword,10,12.0,135,Dwarven Metal Ingot,Sword,One-Handed
+91,Ebony Sword,13,15.0,720,Ebony Ingot,Sword,One-Handed
+92,Eduj,11,9.0,300,Steel Ingot,Sword,One-Handed
+93,Elven Sword,11,13.0,235,Refined Moonstone,Sword,One-Handed
+94,Falmer Sword,10,18.0,67,Chaurus Chitin,Sword,One-Handed
+95,Forsworn Sword,10,13.0,70,Steel Ingot,Sword,One-Handed
+96,Gauldur Blackblade (Lvl 1-11),8,12.0,234,Steel Ingot,Sword,One-Handed
+97,Gauldur Blackblade (Lvl 12-18),8,12.0,465,Steel Ingot,Sword,One-Handed
+98,Gauldur Blackblade (Lvl 19-26),11,15.0,669,Steel Ingot,Sword,One-Handed
+99,Gauldur Blackblade (Lvl 27-35),11,15.0,975,Steel Ingot,Sword,One-Handed
+100,Gauldur Blackblade (Lvl 36+),11,15.0,1286,Steel Ingot,Sword,One-Handed
+101,Ghostblade,8,1.0,300,3 Ectoplasm,Sword,One-Handed
+102,Glass Sword,12,14.0,410,Refined Malachite,Sword,One-Handed
+103,Grimsever,12,14.0,727,Refined Malachite,Sword,One-Handed
+104,Harkon's Sword ,8,9.0,1472,Steel Ingot,Sword,One-Handed
+105,Herebane's Courage,11,13.0,639,Refined Moonstone,Sword,One-Handed
+106,Hjalti's Sword,8,12.0,13,No Upgrade,Sword,One-Handed
+107,Honed Ancient Nord Sword,11,15.0,23,Steel Ingot,Sword,One-Handed
+108,Honed Falmer Sword,12,18.0,205,No Upgrade,Sword,One-Handed
+109,Imperial Sword,8,10.0,23,Steel Ingot,Sword,One-Handed
+110,Iron Sword,7,9.0,25,Iron Ingot,Sword,One-Handed
+111,Lunar Iron Sword (Lvl 2-3),7,9.0,89,Iron Ingot,Sword,One-Handed
+112,Lunar Iron Sword (Lvl 4-5),7,9.0,123,Iron Ingot,Sword,One-Handed
+113,Lunar Iron Sword (Lvl 6+),7,9.0,158,Iron Ingot,Sword,One-Handed
+114,Lunar Steel Sword (Lvl 4-5),8,10.0,69,Steel Ingot,Sword,One-Handed
+115,Lunar Steel Sword (Lvl 6-7),8,10.0,103,Steel Ingot,Sword,One-Handed
+116,Lunar Steel Sword (Lvl 8+),8,10.0,138,Steel Ingot,Sword,One-Handed
+117,Miraak's Sword ,16,3.0,427,Daedra HeartEbony Ingot,Sword,One-Handed
+118,Nightingale Blade (Lvl1-18),10,11.0,426,Ebony Ingot,Sword,One-Handed
+119,Nightingale Blade (Lvl 19-26),11,12.0,851,Ebony Ingot,Sword,One-Handed
+120,Nightingale Blade (Lvl 27-35),12,13.0,1424,Ebony Ingot,Sword,One-Handed
+121,Nightingale Blade (Lvl 36-45),13,14.0,2248,Ebony Ingot,Sword,One-Handed
+122,Nightingale Blade (Lvl 46+),14,15.0,1665,Ebony Ingot,Sword,One-Handed
+123,Nord Hero Sword,11,9.0,135,Steel Ingot,Sword,One-Handed
+124,Nordic Sword ,11,12.0,290,Quicksilver Ingot,Sword,One-Handed
+125,Orcish Sword,9,11.0,75,Orichalcum Ingot,Sword,One-Handed
+126,Phantom Sword,1,0.0,0,No Upgrade,Sword,One-Handed
+127,Queen Freydis's Sword,8,10.0,45,Steel Ingot,Sword,One-Handed
+128,Red Eagle's Bane,11,15.0,100,Steel Ingot,Sword,One-Handed
+129,Red Eagle's Fury,8,12.0,97,Steel Ingot,Sword,One-Handed
+130,Scimitar,11,10.0,5,Steel Ingot,Sword,One-Handed
+131,Silver Sword,8,7.0,100,No Upgrade,Sword,One-Handed
+132,Skyforge Steel Sword,11,10.0,70,Steel Ingot,Sword,One-Handed
+133,Stalhrim Sword ,13,14.0,985,Stalhrim,Sword,One-Handed
+134,Steel Sword,8,10.0,45,Steel Ingot,Sword,One-Handed
+135,Soulrender ,13,10.0,1000,Ebony Ingot,Sword,One-Handed
+136,The Pale Blade (Lvl 1-5),8,12.0,169,Steel Ingot,Sword,One-Handed
+137,The Pale Blade (Lvl 6-11),8,12.0,286,Steel Ingot,Sword,One-Handed
+138,The Pale Blade (Lvl 12-18),11,15.0,452,Steel Ingot,Sword,One-Handed
+139,The Pale Blade (Lvl 19-26),11,15.0,667,Steel Ingot,Sword,One-Handed
+140,The Pale Blade (Lvl 27+),11,15.0,914,Steel Ingot,Sword,One-Handed
+141,Vilkas's Sword,11,10.0,70,Steel Ingot,Sword,One-Handed
+142,Windshear,11,10.0,40,Steel Ingot,Sword,One-Handed
+143,Wooden Sword ,2,3.0,25,Firewood,Sword,One-Handed
+144,Ancient Nord War Axe,9,14.0,15,Steel Ingot,War Axe,One-Handed
+145,Ancient Nordic Pickaxe ,5,10.0,500,No Upgrade,War Axe,One-Handed
+146,Ceremonial Axe,9,14.0,5,Steel Ingot,War Axe,One-Handed
+147,Daedric War Axe,15,18.0,1500,Ebony Ingot,War Axe,One-Handed
+148,Dawnguard Rune Axe ,11,13.0,175,Steel Ingot,War Axe,One-Handed
+149,Dawnguard War Axe ,11,13.0,55,Steel Ingot,War Axe,One-Handed
+150,Dragonbone War Axe ,16,21.0,1700,Dragon Bone,War Axe,One-Handed
+151,Dwarven War Axe,11,14.0,165,Dwarven Metal Ingot,War Axe,One-Handed
+152,Ebony War Axe,15,17.0,865,Ebony Ingot,War Axe,One-Handed
+153,Elven War Axe,12,15.0,280,Refined Moonstone,War Axe,One-Handed
+154,Falmer War Axe,11,21.0,82,Chaurus Chitin,War Axe,One-Handed
+155,Forsworn Axe,11,15.0,90,Steel Ingot,War Axe,One-Handed
+156,Ghorbash's Ancestral Axe,8,11.0,30,Iron Ingot,War Axe,One-Handed
+157,Glass War Axe,14,16.0,490,Refined Malachite,War Axe,One-Handed
+158,Hoarfrost ,5,10.0,946,No Upgrade,War Axe,One-Handed
+159,Honed Draugr War Axe,11,16.0,27,Steel Ingot,War Axe,One-Handed
+160,Honed Falmer War Axe,13,21.0,245,No Upgrade,War Axe,One-Handed
+161,Illusory War Axe,1,14.0,15,No Upgrade,War Axe,One-Handed
+162,Iron War Axe,8,11.0,30,Iron Ingot,War Axe,One-Handed
+163,Lunar Iron War Axe (Lvl 2-3),8,11.0,94,Iron Ingot,War Axe,One-Handed
+164,Lunar Iron War Axe (Lvl 4-5),8,11.0,128,Iron Ingot,War Axe,One-Handed
+165,Lunar Iron War Axe (Lvl 6+),8,11.0,163,Iron Ingot,War Axe,One-Handed
+166,Lunar Steel War Axe (Lvl 2-3),9,12.0,119,Steel Ingot,War Axe,One-Handed
+167,Lunar Steel War Axe (Lvl 4-5),9,12.0,153,Steel Ingot,War Axe,One-Handed
+168,Lunar Steel War Axe (Lvl 6+),9,12.0,188,Steel Ingot,War Axe,One-Handed
+169,Nord Hero War Axe,12,11.0,165,Steel Ingot,War Axe,One-Handed
+170,Nordic War Axe ,12,14.0,350,Quicksilver Ingot,War Axe,One-Handed
+171,Notched Pickaxe,5,10.0,303,Iron Ingot,War Axe,One-Handed
+172,Okin,12,11.0,320,Steel Ingot,War Axe,One-Handed
+173,Orcish War Axe,10,13.0,90,Orichalcum Ingot,War Axe,One-Handed
+174,Pickaxe,5,10.0,5,No Upgrade,War Axe,One-Handed
+175,Poacher's Axe,5,10.0,32,Steel Ingot,War Axe,One-Handed
+176,Skyforge Steel War Axe,12,12.0,80,Steel Ingot,War Axe,One-Handed
+177,Stalhrim War Axe ,15,16.0,1180,Stalhrim,War Axe,One-Handed
+178,Steel War Axe,9,12.0,55,Steel Ingot,War Axe,One-Handed
+179,Ulfric's War Axe,9,12.0,55,Steel Ingot,War Axe,One-Handed
+180,Woodcutter's Axe,5,10.0,5,No Upgrade,War Axe,One-Handed
+183,Ancient Nord Greatsword,17,18.0,35,Steel Ingot,Greatsword,Two-Handed
+184,Balgruuf's Greatsword,17,17.0,200,Steel Ingot,Greatsword,Two-Handed
+185,Bloodskal Blade DR,21,16.0,1250,Silver Ingot,Greatsword,Two-Handed
+186,Daedric Greatsword,24,23.0,2500,Ebony Ingot,Greatsword,Two-Handed
+187,Dragonbone Greatsword ,25,27.0,2725,Dragon Bone,Greatsword,Two-Handed
+188,Dwarven Greatsword,19,19.0,270,Dwarven Metal Ingot,Greatsword,Two-Handed
+189,Ebony Greatsword,22,22.0,1440,Ebony Ingot,Greatsword,Two-Handed
+190,Ebony Blade,11,10.0,2000,No Upgrade,Greatsword,Two-Handed
+191,Elven Greatsword,20,20.0,470,Refined Moonstone,Greatsword,Two-Handed
+192,Glass Greatsword,21,22.0,820,Refined Malachite,Greatsword,Two-Handed
+193,Honed Ancient Nord Greatsword,20,21.0,63,Steel Ingot,Greatsword,Two-Handed
+194,Iron Greatsword,15,16.0,50,Iron Ingot,Greatsword,Two-Handed
+195,Nord Hero Greatsword,20,16.0,250,Steel Ingot,Greatsword,Two-Handed
+196,Nordic Greatsword DR,20,19.0,585,Quicksilver Ingot,Greatsword,Two-Handed
+197,Orcish Greatsword,18,18.0,75,Orichalcum Ingot,Greatsword,Two-Handed
+198,Silver Greatsword,17,12.0,160,No Upgrade,Greatsword,Two-Handed
+199,Skyforge Steel Greatsword,20,17.0,140,Steel Ingot,Greatsword,Two-Handed
+200,Stalhrim Greatsword ,23,21.0,1970,Stalhrim,Greatsword,Two-Handed
+201,Steel Greatsword,17,17.0,90,Steel Ingot,Greatsword,Two-Handed
+202,Stormfang ,17,17.0,1175,Steel Ingot,Greatsword,Two-Handed
+203,Aegisbane,18,24.0,180,Iron Ingot,Warhammer,Two-Handed
+204,Champion's Cudgel ,24,27.0,1767,No Upgrade,Warhammer,Two-Handed
+205,Daedric Warhammer,27,31.0,4000,Ebony Ingot,Warhammer,Two-Handed
+206,Dawnguard Warhammer ,22,26.0,110,Steel Ingot,Warhammer,Two-Handed
+207,Dawnguard Rune Hammer ,22,26.0,500,Steel Ingot,Warhammer,Two-Handed
+208,Dragonbone Warhammer ,28,33.0,4275,Dragon Bone,Warhammer,Two-Handed
+209,Dwarven Warhammer,22,27.0,325,Dwarven Metal Ingot,Warhammer,Two-Handed
+210,Ebony Warhammer,25,30.0,1725,Ebony Ingot,Warhammer,Two-Handed
+211,Elven Warhammer,23,28.0,565,Refined Moonstone,Warhammer,Two-Handed
+212,Glass Warhammer,24,29.0,985,Refined Malachite,Warhammer,Two-Handed
+213,Iron Warhammer,18,24.0,60,Iron Ingot,Warhammer,Two-Handed
+214,Nordic Warhammer ,23,27.0,700,Quicksilver Ingot,Warhammer,Two-Handed
+215,Orcish Warhammer,21,26.0,180,Orichalcum Ingot,Warhammer,Two-Handed
+216,Shagrol's Warhammer,21,26.0,200,Orichalcum Ingot,Warhammer,Two-Handed
+217,Stalhrim Warhammer ,26,29.0,2850,Stalhrim,Warhammer,Two-Handed
+218,Steel Warhammer,20,25.0,110,Steel Ingot,Warhammer,Two-Handed
+219,The Longhammer,21,18.0,90,Orichalcum Ingot,Warhammer,Two-Handed
+220,Trollsbane,20,25.0,121,Steel Ingot,Warhammer,Two-Handed
+221,Volendrung,25,26.0,1843,Ebony Ingot,Warhammer,Two-Handed
+222,Ancient Nord Bow,8,12.0,45,Steel Ingot,Bow,Archery
+223,Angi's Bow,7,7.0,50,Steel Ingot,Bow,Archery
+224,Auriel's Bow DG,13,11.0,1000,Refined Moonstone,Bow,Archery
+225,Bow of the Hunt,10,7.0,434,Steel Ingot,Bow,Archery
+226,Daedric Bow,19,18.0,2500,Ebony Ingot,Bow,Archery
+227,Dragonbone Bow DG,20,20.0,2725,Dragon Bone,Bow,Archery
+228,Drainspell Bow,14,6.0,458,No Upgrade,Bow,Archery
+229,Dravin's Bow,7,7.0,50,Leather Strips,Bow,Archery
+230,Dwarven Bow,12,10.0,270,Dwarven Metal Ingot,Bow,Archery
+231,Dwarven Black Bow of Fate DR,13,10.0,1446,Ebony Ingot,Bow,Archery
+232,Ebony Bow,17,16.0,1440,Ebony Ingot,Bow,Archery
+233,Elven Bow,13,12.0,470,Refined Moonstone,Bow,Archery
+234,Falmer Bow,12,15.0,135,Chaurus Chitin,Bow,Archery
+235,Falmer Supple Bow,15,20.0,410,No Upgrade,Bow,Archery
+236,Firiniel's End,13,12.0,785,Refined Moonstone,Bow,Archery
+237,Forsworn Bow,12,11.0,145,Steel Ingot,Bow,Archery
+238,Froki's Bow,6,5.0,307,Iron Ingot,Bow,Archery
+239,Gauldur Blackbow,8,12.0,253,Steel Ingot,Bow,Archery
+240,Gauldur Blackbow,8,12.0,407,Steel Ingot,Bow,Archery
+241,Gauldur Blackbow,14,18.0,530,Steel Ingot,Bow,Archery
+242,Gauldur Blackbow,14,18.0,750,Steel Ingot,Bow,Archery
+243,Gauldur Blackbow,14,18.0,972,Steel Ingot,Bow,Archery
+244,Glass Bow,15,14.0,820,Refined Malachite,Bow,Archery
+245,Glass Bow of the Stag Prince DR,16,14.0,375,Refined Malachite,Bow,Archery
+246,Hunting Bow,7,7.0,50,Leather Strips,Bow,Archery
+247,Imperial Bow,9,8.0,90,Steel Ingot,Bow,Archery
+248,Karliah's Bow,25,9.0,5,No Upgrade,Bow,Archery
+249,Long Bow,6,5.0,30,Firewood,Bow,Archery
+250,Nord Hero Bow,11,7.0,200,Steel Ingot,Bow,Archery
+251,Nordic Bow DR,13,11.0,580,Quicksilver Ingot,Bow,Archery
+252,Orcish Bow,10,9.0,150,Orichalcum Ingot,Bow,Archery
+253,Stalhrim Bow DR,17,15.0,1800,Stalhrim,Bow,Archery
+254,Supple Ancient Nord Bow,14,18.0,235,No Upgrade,Bow,Archery
+255,Nightingale Bow,12,9.0,493,Ebony Ingot,Bow,Archery
+256,Nightingale Bow,13,11.0,838,Ebony Ingot,Bow,Archery
+257,Nightingale Bow,15,13.0,1409,Ebony Ingot,Bow,Archery
+258,Nightingale Bow,17,15.0,2240,Ebony Ingot,Bow,Archery
+259,Nightingale Bow,19,18.0,3405,Ebony Ingot,Bow,Archery
+260,Zephyr DG,12,10.0,670,Dwarven Metal Ingot,Bow,Archery
+281,Crossbow,19,14.0,120,Steel Ingot,Crossbow,Archery
+282,Dwarven Crossbow,22,20.0,350,Dwarven metal ingot,Crossbow,Archery
+283,Enhanced Crossbow,19,15.0,200,Steel Ingot,Crossbow,Archery
+284,Enhanced Dwarven Crossbow,22,21.0,550,Dwarven metal ingot,Crossbow,Archery
